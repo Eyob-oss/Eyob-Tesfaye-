@@ -22,7 +22,7 @@
     <!-- Home Section -->
     <section id="home" class="hero">
         <div class="content">
-<img src="project.png" alt="Eyob's Profile Picture" class="profile-pic">
+<img src="project.png">
             <h1>Hello, I'm Eyob!</h1>
             <p>A passionate developer creating beautiful and functional websites.</p>
             <a href="#about" class="btn">Learn More</a>
